@@ -12,7 +12,7 @@ Conforme o exemplo abaixo, entre os colchetes podemos inserir um nome para a ima
 
 ![Technology](http://ccsweb.com.br/images/technology.jpg)
 
-**Exemplo 1**:
+**Exemplo 2**:
 
     Usando variáveis:
 
