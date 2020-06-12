@@ -18,7 +18,7 @@ Conforme o exemplo abaixo, entre os colchetes podemos inserir um nome para a ima
 
     [imagem-url]: http://ccsweb.com.br/images/technology.jpg
 
-    ![Logo Node JS][imagem-url]
+    ![Technology][imagem-url]
 
 **Resultado:**
 
