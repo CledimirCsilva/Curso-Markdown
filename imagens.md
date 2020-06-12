@@ -6,11 +6,11 @@ Conforme o exemplo abaixo, entre os colchetes podemos inserir um nome para a ima
 
 **Exemplo 1**:
 
-    ![Logo Node JS](http://ccsweb.com.br/images/technology.jpg)
+    ![Technology](http://ccsweb.com.br/images/technology.jpg)
 
 **Resultado:**
 
-![Logo Node JS](http://ccsweb.com.br/images/technology.jpg)
+![Technology](http://ccsweb.com.br/images/technology.jpg)
 
 **Exemplo 1**:
 
@@ -24,4 +24,4 @@ Conforme o exemplo abaixo, entre os colchetes podemos inserir um nome para a ima
 
 [imagem-url]: http://ccsweb.com.br/images/technology.jpg
 
-![Logo Node JS][imagem-url]
+![Technology][imagem-url]
