@@ -16,11 +16,11 @@ Dentro de colchetes [] coloca-se o texto do link. E dentro de parênteses () col
 
     Exibindo um texto alternativo ao passar o mouse sobre o link:
 
-    [Ver portfólio](http://portfolio.ccswebcom.br "Portfolio")
+    [Ver portfólio](http://portfolio.ccsweb.com.br "Portfolio")
 
 **Resultado:**
 
-[Ver portfólio](http://portfolio.ccswebcom.br "Portfolio")
+[Ver portfólio](http://portfolio.ccsweb.com.br "Portfolio")
 
 ## **Exemplo 3**:
 
