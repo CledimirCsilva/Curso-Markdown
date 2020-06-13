@@ -22,6 +22,6 @@
 - Tabelas
 - Blocos de Códigos
 - Citações
-- Strike em Textos
+- Tachado
 
 [logo-url]:http://www.ccsweb.com.br/images/markdown.png
