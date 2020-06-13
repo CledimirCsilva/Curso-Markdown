@@ -16,6 +16,6 @@ uma quebra de linha.
 
 **Exemplo:** 
 
-Estes parágrafos foram separados 
+As linhas dste parágrafo foram quebradas 
 
 utilizando 2 Enter (resultando em duas quebras de linhas).
