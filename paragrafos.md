@@ -16,6 +16,6 @@ uma quebra de linha.
 
 **Exemplo:** 
 
-As linhas dste parágrafo foram quebradas 
+As linhas deste parágrafo foram quebradas 
 
-utilizando 2 Enter (resultando em duas quebras de linhas).
+pressionando a tecla *Enter* 2 vezes (resultando em duas quebras de linhas).
